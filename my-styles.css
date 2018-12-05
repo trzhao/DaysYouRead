@@ -1,0 +1,9 @@
+body {
+	text-align: center;
+	margin-top: 80px;
+}
+
+button,
+button:focus {
+	touch-action: manipulation;
+}
